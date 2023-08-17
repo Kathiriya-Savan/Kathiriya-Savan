@@ -46,4 +46,4 @@
 
 <p><img align="center" src="https://github-readme-stats-ten-navy.vercel.app/api?username=Kathiriya-Savan&theme=ocean_dark&show_icons=true&ring_color=ff0000&title_color=FFBF00" alt="Kathiriya-Savan"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kathiriya-Savana&theme=chartreuse-dark&currStreakNum=red&fire=red" alt="Kathiriya-Savan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kathiriya-Savan&theme=chartreuse-dark&currStreakNum=red&fire=red" alt="Kathiriya-Savan" /></p>
